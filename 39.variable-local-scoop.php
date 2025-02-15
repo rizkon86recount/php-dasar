@@ -6,4 +6,4 @@ function createName()
 }
 
 createName();
-echo $name . PHP_EOL;
+echo $name . PHP_EOL; //eror

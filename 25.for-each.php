@@ -12,7 +12,9 @@ foreach ($names as $name) {
     echo "Data $name" . PHP_EOL;
 }
 
-
+foreach ($names as $index => $name) {
+    echo "Data ke $index = $name" . PHP_EOL;
+}
 
 //dibawah ini jika butuh key value
 $person = [
@@ -22,5 +24,5 @@ $person = [
 ];
 
 foreach ($person as $key => $value) {
-    echo ("$key => $value") . PHP_EOL;
+    echo "$key : $value" . PHP_EOL;
 }

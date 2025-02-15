@@ -13,3 +13,10 @@ var_dump($negatifResult);
 
 $resultModulo = 100 % 3;
 var_dump($resultModulo);
+
+$result = $a - $b;
+var_dump($result);
+
+
+$result = $a * $b;
+var_dump($result);

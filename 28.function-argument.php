@@ -1,13 +1,22 @@
 <?php
 
-function sayHello($name = "Anonymous")
+// function sayHello($name = "Anonymous")
+// {
+//     echo "Hello $name" . PHP_EOL;
+// }
+
+// sayHello("Rizkon");
+// sayHello("Nanda");
+// sayHello();
+
+
+function sayHello($name)
 {
     echo "Hello $name" . PHP_EOL;
 }
 
 sayHello("Rizkon");
 sayHello("Nanda");
-sayHello();
 
 
 // contoh lagi type deklarasi function

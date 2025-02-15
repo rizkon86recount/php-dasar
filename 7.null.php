@@ -8,7 +8,7 @@ echo "Nama : ";
 echo $name;
 echo "\n";
 
-echo "Umur : ";
+echo "Age : ";
 echo $age;
 echo "\n";
 
@@ -18,5 +18,9 @@ echo "\n";
 
 $contoh = "Rizkon";
 unset($contoh);
+
+var_dump(isset($contoh));
+
+$contoh = "Rizkon";
 
 var_dump(isset($contoh));

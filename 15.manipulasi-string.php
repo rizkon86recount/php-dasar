@@ -1,9 +1,9 @@
 <?php
 
-$name = "Mohamad Rizkon Nurkholis";
+$name = "Mohammad Rizkon Nurkholis";
 
 echo "Name : " . $name . PHP_EOL;
-echo "Umur : " . 100 . PHP_EOL;
+echo "Umur : " . 100 . "\n";
 
 
 $valueString = (string)100;

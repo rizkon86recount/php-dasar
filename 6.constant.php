@@ -8,5 +8,5 @@ echo AUTHOR;
 echo "\n";
 
 echo "App Version : ";
-echo APP_VERSION;
+echo APP_VERSION;  
 echo "\n";

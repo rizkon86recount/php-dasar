@@ -1,19 +1,19 @@
 <?php
 $name = "Rizkon";
-$age = 21;
+$age = 23;
 
-echo "Nama : ";
+echo "Name : ";
 echo $name;
 echo "\n";
 
-echo "Umur : ";
+echo "Age : ";
 echo $age;
 echo "\n";
 
 
 
 $contoh = "rizkon";
-$$contoh = "nurkholis";
+$$contoh = "recount";
 
 echo "Contoh : ";
 echo $contoh;

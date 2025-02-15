@@ -16,6 +16,14 @@ if ($nilai >= 81 && $absen >= 75) {
 }
 
 
+// if ($nilai >= 75 && $absen >= 75) {
+//     echo "Anda lulus" . PHP_EOL;
+// } else {
+//     echo "Maaf, Anda Tidak lulus" . PHP_EOL;
+// }
+
+
+
 
 if ($nilai >= 81 && $absen >= 75) :
     echo "Nilai Anda A" . PHP_EOL;
